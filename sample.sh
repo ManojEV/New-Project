@@ -1,7 +1,2 @@
 #!/bin/sh
-
-for ((i=1;i<=50;i++)); 
-do 
-   # your-unix-command-here
-   echo $i
-done
+echo " Hello Manoj Jenkins-GitHub Integration Done succefully"
