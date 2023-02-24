@@ -1,6 +1,6 @@
 #!/bin/sh
 
-for ((i=1;i<=100;i++)); 
+for ((i=1;i<=50;i++)); 
 do 
    # your-unix-command-here
    echo $i
